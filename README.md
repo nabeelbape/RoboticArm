@@ -1,2 +1,4 @@
 # RoboticArm
-Arduino code for controlling Robotic arm
+This is the Arduino code for controlling my Robotic arm called Dum-E.
+
+
